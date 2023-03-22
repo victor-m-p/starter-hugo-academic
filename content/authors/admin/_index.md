@@ -31,10 +31,10 @@ education:
   courses:
     - course: MSc, Cognitive Science
       institution: Aarhus University
-      year: 2022
+      year: 2020-2022
     - course: BSc, Cognitive Science and Mathematics
       institution: Aarhus University
-      year: 2020
+      year: 2017-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -19,6 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 20
+  #- name: Music ---need to not be on the scroll bar somehow. 
+  #  url: '#music'
+  #  weight: 30
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
