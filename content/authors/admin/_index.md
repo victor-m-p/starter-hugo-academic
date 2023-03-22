@@ -14,8 +14,8 @@ role: Predoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Carnegie Mellon University
-    url: https://www.cmu.edu/
+  - name: Carnegie Mellon University, Laboratory for Social Minds
+    url: https://sites.santafe.edu/~simon/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include complex systems, cognitive science, and computational modeling. 
