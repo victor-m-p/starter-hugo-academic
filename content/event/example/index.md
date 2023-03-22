@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/victor-m-p
-url_code: ''
-url_pdf: ''
+url_code: '' # perhaps link to the github
+url_pdf: '' # perhaps link to the paper
 url_slides: '' # insert slides 
 url_video: 'https://www.youtube.com/live/Zbh8GEkG0Uk?feature=share'
 
