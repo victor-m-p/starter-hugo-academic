@@ -229,9 +229,9 @@ sections:
           captcha: true
     design:
       columns: '2'
- - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+ #- block: tag_cloud
+ #   content:
+ #     title: Popular Topics
+ #   design:
+ #     columns: '2'
 ---
