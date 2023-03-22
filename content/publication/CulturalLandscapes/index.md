@@ -9,12 +9,12 @@ authors:
   - Simon DeDeo
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2023-01-31T00:00:00Z'
+doi: 'https://doi.org/10.3390/e25020264'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-03-21T00:00:00Z'
@@ -27,14 +27,14 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Entropy*
-publication_short: In *ICW*
+publication_short: In *Entropy*
 
 abstract: The space of possible human cultures is vast, but some cultural configurations are more consistent with cognitive and social constraints than others. This leads to a “landscape” of possibilities that our species has explored over millennia of cultural evolution. However, what does this fitness landscape, which constrains and guides cultural evolution, look like? The machine-learning algorithms that can answer these questions are typically developed for large-scale datasets. Applications to the sparse, inconsistent, and incomplete data found in the historical record have received less attention, and standard recommendations can lead to bias against marginalized, under-studied, or minority cultures. We show how to adapt the minimum probability flow algorithm and the Inverse Ising model, a physics-inspired workhorse of machine learning, to the challenge. A series of natural extensions—including dynamical estimation of missing data, and cross-validation with regularization—enables reliable reconstruction of the underlying constraints. We demonstrate our methods on a curated subset of the Database of Religious History; records from 407 religious groups throughout human history, ranging from the Bronze Age to the present day. This reveals a complex, rugged, landscape, with both sharp, well-defined peaks where state-endorsed religions tend to concentrate, and diffuse cultural floodplains where evangelical religions, non-state spiritual practices, and mystery religions can be found.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present an improved method to estimate a landscape model on biased and inconsistent data in the "small data" limit. We demonstrate the method on a curated subset of the Database of Religious History.
 
-tags: []
+tags: [Machine Learning, Physics, Cultural Evolution, Inverse Ising Model, Minimum Probability Flow, Regularization, Cross-Validation, Missing Data, Database of Religious History, Religious History]
 
 # Display this page in the Featured widget?
 featured: true
