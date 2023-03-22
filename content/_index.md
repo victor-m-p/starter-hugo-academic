@@ -100,7 +100,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -151,14 +151,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #    title: Gallery
+  #    subtitle: ''
+  #    text: |-
+  #      {{< gallery album="demo" >}}
+  #  design:
+  #    columns: '1'
   #- block: collection
   #  content:
   #    title: Recent Publications
@@ -183,11 +183,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
@@ -232,6 +227,11 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
+    design:
+      columns: '2'
+ - block: tag_cloud
+    content:
+      title: Popular Topics
     design:
       columns: '2'
 ---

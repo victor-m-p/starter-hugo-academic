@@ -1,31 +1,31 @@
 ---
-title: Example Talk
+title: Inferring Cultural Constraints & Landscapes of the Possible
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Santa Fe Institute
+event_url: https://www.santafe.edu/events/inferring-cultural-constraints-landscapes-possible
 
-location: Wowchemy HQ
+location: Santa Fe Institute
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1399 Hyde Park Rd
+  city: Santa Fe
+  region: NM
+  postcode: '87501'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Talk at the Santa Fe Institute on the use of landscape models to approach the mapping of cultural constraints and cultural evolution. 
+abstract: 'Central questions in religious studies are increasingly approached through statistical modeling of large-scale cross-cultural data. Findings, however, have been conflicting, in part due to the challenges of missing data, expert disagreement, and confounding. Inspired by the successful application of the (inverse) Ising model to social and biological systems, we show how inferring a “landscape model” from these data can provide a new lens to investigate cultural evolution; the Bayesian nature of the estimation process allows us to handle missing data, biased coverage, and expert (dis)agreement in a rigorous fashion, while providing a new framework for thinking about the underlying causal processes. Landscape models not only provide new insight into the fundamental constraints that drive religions into a subset of observed forms; they also provide a holistic view of how these constraints combine to produce a complex landscape with well-defined peaks and cultural floodplains, and allow us to make quantitative predictions about features of ancient religions that are unknown to the field. By going beyond simple regression models, they enable us to hypothesize in new ways about hidden variables, causality, and dynamical evolution.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-03-06T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-03-22T00:00:00Z'
 
 authors: []
-tags: []
+tags: [SFI, Landscape Models, Cultural Evolution, Ising Model]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,11 +38,11 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/victor-m-p
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: '' # insert slides 
+url_video: 'https://www.youtube.com/live/Zbh8GEkG0Uk?feature=share'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,15 +59,3 @@ slides: example
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
