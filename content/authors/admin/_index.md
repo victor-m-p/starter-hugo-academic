@@ -29,10 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Cognitive Science
+    - course: MSc, Cognitive Science
       institution: Aarhus University
       year: 2022
-    - course: BSc in Cognitive Science
+    - course: BSc, Cognitive Science and Mathematics
       institution: Aarhus University
       year: 2020
 
@@ -73,4 +73,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a predoctoral fellow at the Laboratory for Social Minds at Carnegie Mellon University. My research interests span cognitive science, complex systems research, and computational modeling of social and cultural systems. I am currently working on Machine Learning (ML) approaches to modeling biased, inconsistent, and incomplete social and cultural data with prof. Simon DeDeo (CMU/SFI). 
+# Biography
+I am a predoctoral fellow at the Laboratory for Social Minds at Carnegie Mellon University. I am currently working on Machine Learning (ML) approaches to modeling biased, inconsistent, and incomplete social and cultural data with prof. Simon DeDeo (CMU/SFI). 
+
+My research interests span cognitive science, complex systems research, and computational modeling of social and cultural systems. I am interested in applying statistical and computational techniques to better understand the mechanisms that guide system-level behavior. Besides my research, I write and record music, and dabble in beers and chess. 
