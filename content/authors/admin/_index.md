@@ -65,6 +65,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://victor-m-p.github.io/markdown-cv/
+  - icon: scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=J_IQvKYAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
