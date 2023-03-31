@@ -50,24 +50,19 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # SCHOLAR 
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=J_IQvKYAAAAJ&hl=en
+  # GITHUB
   - icon: github
     icon_pack: fab
     link: https://github.com/victor-m-p
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/in/victor-m%C3%B8ller-poulsen-89404810b/ # update this link
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  # CV
   - icon: cv
     icon_pack: ai
     link: https://victor-m-p.github.io/markdown-cv/
-  - icon: scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=J_IQvKYAAAAJ&hl=en
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
