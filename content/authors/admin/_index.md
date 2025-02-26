@@ -72,6 +72,8 @@ highlight_name: true
 ---
 
 # Biography
-I am a predoctoral fellow at the Laboratory for Social Minds at Carnegie Mellon University. I am currently working on Machine Learning (ML) approaches to modeling biased, inconsistent, and incomplete social and cultural data with prof. Simon DeDeo (CMU/SFI). 
+I am a PhD student at the Complexity Science Hub, Vienna. I work on belief networks and am particularly interested in how beliefs (personal and social) constrain the dynamics of beliefs and behaviors. A key idea is that structural features of individual belief networks (personal and social) predict different dynamical patterns.
 
-My research interests span cognitive science, complex systems research, and computational modeling of social and cultural systems. I am interested in applying statistical and computational techniques to better understand the mechanisms that guide system-level behavior. Besides my research, I write and record music, and dabble in beers and chess. 
+Previously I worked as a Predoctoral Fellow with prof. Simon DeDeo (CMU/SFI) on machine learning approaches to cultural-historical data, and was a research consultant for the London School of Economics (LSE) on a project for the Database of Religious History (DRH). 
+
+Overall, my research interests span cognitive science, complex systems research, and computational modeling of social and cultural systems. I also write and release music as Löwenmensch. 
