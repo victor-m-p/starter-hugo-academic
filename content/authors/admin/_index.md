@@ -50,6 +50,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/vicmp.bsky.social
+    label: Follow me on Bluesky 
+    display: 
+      header: true
   # SCHOLAR 
   - icon: google-scholar
     icon_pack: ai
