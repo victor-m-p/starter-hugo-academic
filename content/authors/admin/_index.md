@@ -3,7 +3,7 @@
 title: Victor Poulsen
 
 # Full name (for SEO)
-first_name: Victor
+first_name: Victor Møller 
 last_name: Poulsen
 
 # Is this the primary user of the site?
