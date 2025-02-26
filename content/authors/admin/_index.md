@@ -10,20 +10,20 @@ last_name: Poulsen
 superuser: true
 
 # Role/position/tagline
-role: Predoctoral Fellow 
+role: PhD Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Carnegie Mellon University, Laboratory for Social Minds
-    url: https://sites.santafe.edu/~simon/
+  - name: Complexity Scienec Hub, Vienna
+    url: https://csh.ac.at/victor-moller-poulsen/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include complex systems, cognitive science, and computational modeling. 
+bio: My research interests include belief networks, social and cultural dynamics, and computational modeling. 
 
 # Interests to show in About widget
 interests:
-  - Complex Systems
-  - Cognitive Science
+  - Belief Networks
+  - Social and Cultural Dynamics
   - Computational Modeling
 
 # Education to show in About widget
